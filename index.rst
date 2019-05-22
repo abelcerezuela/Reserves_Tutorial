@@ -70,7 +70,7 @@ Fes clic sobre el nom de la ruta que apareix en el dia que vulguis realitzar-la:
 
 ****
 
-omplir el formulari de reserva
+Omplir el formulari de reserva
 --------------------------------------
 Finalment, un cop escollit el dia, hauràs d'omplir el formulari de reserva. Aquí se t'informarà del preu de la ruta (totes es paguen en mà el mateix dia de la ruta), i se't demanarà el número de persones
 que la faran, la teva experiència en senderisme, el teu propòsit i un correu electrònic:
@@ -79,7 +79,7 @@ que la faran, la teva experiència en senderisme, el teu propòsit i un correu e
 
 ****
 
-Comprovar safata d'entrada
+Comprovar la safata d'entrada
 -----------------------------------
 Al fer la reserva t'arribarà un correu electrònic d'aquest estil:
 
