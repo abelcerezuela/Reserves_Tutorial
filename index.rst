@@ -12,7 +12,7 @@ En aquest document, a mode de guia per l'usuari, s'ensenyarà com fer una reserv
 
 Passos a seguir
 ~~~~~~~~~~~~~~~~~~
-1. Registrar-se / Iniciar sessió
+Registrar-se / Iniciar sessió
 ----------------------------------
 Per poder reservar rutes en la web Komorebi Trails és indispensable estar registrat. En cas de que no ho estiguis, has d'accedir al formulari de registre
 a través del botó JOIN US que es mostra en la imatge següent:
@@ -38,7 +38,7 @@ En la pantalla de inici de sessió escriu el teu nom d'usuari i la teva contrass
 
 ****
 
-2. Elegir una ruta des de la secció Book a Trail
+Elegir una ruta des de la secció Book a Trail
 -------------------------------------------------
 Un cop hagis iniciat sessió, tindràs accés complet a tota la web i a les funcionalitats de reserva de rutes de muntanya i de compra de fotografies.
 
@@ -47,13 +47,13 @@ botó BOOK A TRAIL i elegir la ruta que desitgis realitzar, fent clic en el bot�
 
 En aquest cas, aprendrem a fer una reserva seguint aquesta segona opció.
 
-Pàgina de rutes a la qual s'accedeix apretant al botó BOOK IT! :
+Pàgina de rutes a la qual s'accedeix apretant al botó BOOK A TRAIL :
 
 .. image:: imgs/4.png
 
-Abans d'elegir una ruta, fixa't que pots filtar-les segons les teves preferències, gràices als filtres situats al panell de l'esquerra.
+Abans d'elegir una ruta, fixa't que pots filtar-les segons les teves preferències, gràcies als filtres situats al panell de l'esquerra.
 
-A més, si deistjes tenir més informació sobre qualsevol ruta, només cal que cliquis en el seu nom i se t'obrirà una pàgina detallada com la següent:
+A més, si desitjes tenir més informació sobre qualsevol ruta, només cal que cliquis en el seu nom i se t'obrirà una pàgina detallada com la següent:
 
 .. image:: imgs/5.png
 
@@ -61,7 +61,7 @@ Tornant al llistat de rutes, suposem que ja has elegit la que vols realitzar. Ai
 
 ****
 
-3. Elegir una data de les ofertades dins de Calendar
+Elegir una data de les ofertades dins de Calendar
 ------------------------------------------------------
 Fes clic sobre el nom de la ruta que apareix en el dia que vulguis realitzar-la:
 
@@ -70,7 +70,7 @@ Fes clic sobre el nom de la ruta que apareix en el dia que vulguis realitzar-la:
 
 ****
 
-4. Omplenar el formulari de reserva
+Omplenar el formulari de reserva
 --------------------------------------
 Finalment, un cop escollit el dia, hauràs d'omplenar el formulari de reserva. Aquí se t'informarà del preu de la ruta (totes es paguen en mà el mateix dia de la ruta), i se't demanarà el número de persones
 que la faran, la teva experiència en senderisme, el teu proposit i un correu electrònic:
@@ -79,7 +79,7 @@ que la faran, la teva experiència en senderisme, el teu proposit i un correu el
 
 ****
 
-5. Comprovar safata d'entrada
+Comprovar safata d'entrada
 -----------------------------------
 Al fer la reserva t'arribarà un correu electrònic d'aquest estil:
 
