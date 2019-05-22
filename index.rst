@@ -19,8 +19,8 @@ a través del botó JOIN US que es mostra en la imatge següent:
 
 .. image:: imgs/1.png
 
-Seguidament hauràs d'omplenar el formulari de registre on se't demanarà el teu nom complet, un nom d'usuari, una contrasenya i un correu electrònic.
-Si ets un treballador/-a de l'empresa Komorebi Trails, també hauràs d'omplenar el camp Employee ID amb el codi que t'hauran proporcionat.
+Seguidament hauràs d'omplir el formulari de registre on se't demanarà el teu nom complet, un nom d'usuari, una contrasenya i un correu electrònic.
+Si ets un treballador/-a de l'empresa Komorebi Trails, també hauràs d'omplir el camp Employee ID amb el codi que t'hauran proporcionat.
 Si no ets un treballador/-a de l'empresa, deixa aquest camp en blanc.
 
 Formulari de registre:
@@ -70,10 +70,10 @@ Fes clic sobre el nom de la ruta que apareix en el dia que vulguis realitzar-la:
 
 ****
 
-Omplenar el formulari de reserva
+omplir el formulari de reserva
 --------------------------------------
-Finalment, un cop escollit el dia, hauràs d'omplenar el formulari de reserva. Aquí se t'informarà del preu de la ruta (totes es paguen en mà el mateix dia de la ruta), i se't demanarà el número de persones
-que la faran, la teva experiència en senderisme, el teu proposit i un correu electrònic:
+Finalment, un cop escollit el dia, hauràs d'omplir el formulari de reserva. Aquí se t'informarà del preu de la ruta (totes es paguen en mà el mateix dia de la ruta), i se't demanarà el número de persones
+que la faran, la teva experiència en senderisme, el teu propòsit i un correu electrònic:
 
 .. image:: imgs/8.png
 
